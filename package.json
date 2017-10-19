@@ -1,0 +1,19 @@
+{
+  "name": "mkm_smart_comparator",
+  "version": "1.0.0",
+  "description": "A smart comparison tool for mkm mtg cards per-vendor availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadManPoe/MKM_Smart_Comparator.git"
+  },
+  "author": "DeadManPoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeadManPoe/MKM_Smart_Comparator/issues"
+  },
+  "homepage": "https://github.com/DeadManPoe/MKM_Smart_Comparator#readme"
+}
